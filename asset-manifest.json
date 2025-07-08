@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/FramingFossilFuels/static/css/main.083edc9e.chunk.css",
-    "main.js": "/FramingFossilFuels/static/js/main.0b4d79c5.chunk.js",
-    "main.js.map": "/FramingFossilFuels/static/js/main.0b4d79c5.chunk.js.map",
+    "main.js": "/FramingFossilFuels/static/js/main.8ca80cf6.chunk.js",
+    "main.js.map": "/FramingFossilFuels/static/js/main.8ca80cf6.chunk.js.map",
     "runtime-main.js": "/FramingFossilFuels/static/js/runtime-main.dd420f16.js",
     "runtime-main.js.map": "/FramingFossilFuels/static/js/runtime-main.dd420f16.js.map",
     "static/js/2.8258dd46.chunk.js": "/FramingFossilFuels/static/js/2.8258dd46.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.dd420f16.js",
     "static/js/2.8258dd46.chunk.js",
     "static/css/main.083edc9e.chunk.css",
-    "static/js/main.0b4d79c5.chunk.js"
+    "static/js/main.8ca80cf6.chunk.js"
   ]
 }
