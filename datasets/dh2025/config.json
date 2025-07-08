@@ -77,7 +77,7 @@
             "type": "selection"
         }
     ],
-    "url_prefix": "/datasets/dh2025/images/",
+    "url_prefix": "/FramingFossilFuels/datasets/dh2025/images/",
     "sprite_side": 32,
     "sprite_dir": "dh2025",
     "sprite_number": 5,
