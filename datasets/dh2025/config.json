@@ -1,0 +1,86 @@
+{
+    "title": "dh2025",
+    "datasetInfo": "",
+    "embeddings": [
+        {
+            "name": "UMAP",
+            "file": "UMAP.json"
+        }
+    ],
+    "clusters": {
+        "clusterList": [
+            "Type",
+            "Year"
+        ],
+        "clusterColors": [
+            "#00ff00",
+            "#ff00ff",
+            "#0080ff",
+            "#ff8000",
+            "#80bf80",
+            "#4b05b6",
+            "#b20421",
+            "#2cfdf4",
+            "#e881e7",
+            "#00704a",
+            "#dffd02",
+            "#808000",
+            "#00ff80",
+            "#f9c781",
+            "#a95478",
+            "#99cdff",
+            "#7757fd",
+            "#4b2848",
+            "#ff0080",
+            "#72fd2f",
+            "#3e79a4"
+        ]
+    },
+    "total": 4113,
+    "sliders": [
+        {
+            "id": "Year",
+            "title": "Year",
+            "info": "",
+            "typeNumber": "int",
+            "color": "#80848d",
+            "min": 1939,
+            "max": 1988
+        },
+        {
+            "id": "Scene Number",
+            "title": "Scene Number",
+            "info": "",
+            "typeNumber": "int",
+            "color": "#84fe8d",
+            "min": 1,
+            "max": 564
+        }
+    ],
+    "info": [
+        "ID",
+        "Title",
+        "Type",
+        "Year",
+        "Director",
+        "Scene Number",
+        "Start Time (seconds)",
+        "End Time (seconds)"
+    ],
+    "search": [
+        {
+            "columnField": "Title",
+            "type": "selection"
+        },
+        {
+            "columnField": "Type",
+            "type": "selection"
+        }
+    ],
+    "url_prefix": "/datasets/dh2025/images/",
+    "sprite_side": 32,
+    "sprite_dir": "dh2025",
+    "sprite_number": 5,
+    "sprite_image_size": 64,
+    "sprite_actual_size": 2048
+}
